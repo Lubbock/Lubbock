@@ -18,12 +18,7 @@
 |---|---|---|
 | [**YysScript**](https://github.com/Lubbock/YysScript) | 游戏自动化脚本：截屏 → OpenCV 模板匹配 → 状态机 → 拟人化点击。不读内存、不调接口，纯视觉方案 | Python |
 | [**Lubbock.github.io**](https://github.com/Lubbock/Lubbock.github.io) | 「圈圈冥想」网页游戏：演化棋盘 + 灰白呼吸专注模式，同时适配手机触摸 / 桌面 / 窗口缩放 | JavaScript |
-| [**ok-pdf**](https://github.com/Lubbock/ok-pdf) | 扫描版 PDF 处理，去灰底、提清晰度 | Kotlin |
-| [**ok-hexo**](https://github.com/Lubbock/ok-hexo) | 个人笔记发布链：typora 写作 → hexo 站点编译 | Kotlin |
-| [**jnotify**](https://github.com/Lubbock/jnotify) | 文件夹变更监听，个人文档同步模块 | Java |
 | [**hatake-git**](https://github.com/Lubbock/hatake-git) | git 早期核心逻辑的 Java 实现，为了搞懂它到底怎么存对象 | Java |
-| [**pyarticle**](https://github.com/Lubbock/pyarticle) | 中文文章关键词与主题抽取 | Python |
-| [**novel-spider**](https://github.com/Lubbock/novel-spider) | 小说抓取与归档 | Python |
 
 ## 技术栈
 
